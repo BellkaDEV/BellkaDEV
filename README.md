@@ -1,25 +1,23 @@
 # Olá! 👋 Eu sou BellkaDEV
 
-💻 **Desenvolvedora / Entusiasta de Tecnologia**  
-🚀 Apaixonada por criar projetos incríveis e aprender coisas novas todos os dias.
+💻 **Desenvolvedor / Entusiasta de Tecnologia**  
+🚀 Apaixonado por criar projetos incríveis e aprender coisas novas todos os dias.
 
 ---
 
 ## 🔧 Tecnologias que uso
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🌱 Estou aprendendo
 
+- Estruturas de dados avançadas  
+- Algoritmos  
 - Inteligência Artificial  
-- Desenvolvimento Mobile  
-- Cloud Computing  
 
 ---
 
@@ -27,9 +25,9 @@
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| Meu Portfolio | Meu site pessoal mostrando meus projetos | [Ver](https://github.com/BellkaDEV/portfolio) |
-| Chatbot IA | Chatbot feito com Python e NLP | [Ver](https://github.com/BellkaDEV/chatbot-ia) |
-| Jogo Web | Jogo divertido em JavaScript | [Ver](https://github.com/BellkaDEV/jogo-web) |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ---
 
