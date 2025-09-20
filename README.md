@@ -1,3 +1,4 @@
-
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+### Meu GitHub Snake
+![GitHub Snake](dist/github-snake.svg)
+![GitHub Snake Dark](dist/github-snake-dark.svg)
+![Meu Snake GIF](dist/ocean.gif)
