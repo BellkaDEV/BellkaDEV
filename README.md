@@ -55,8 +55,8 @@
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BellkaDEV&theme=tokyo-night&hide_border=true&area=true) 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2g4dzJuY3BobmVmMTFpbWpmd21jM3FscHBlMGlkMzgxazVjcmlvcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif" width="45%" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4OTk2ZTNuZ3ZtNnU0M2VxY3EzYmRsemR5dGQ2ejFnZzdwaWU3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DNpV7fnOE6QJuW2lje/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2g4dzJuY3BobmVmMTFpbWpmd21jM3FscHBlMGlkMzgxazVjcmlvcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif" width="50%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4OTk2ZTNuZ3ZtNnU0M2VxY3EzYmRsemR5dGQ2ejFnZzdwaWU3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DNpV7fnOE6QJuW2lje/giphy.gif" width="50%" />
 </div>
 
 <div align="center">
