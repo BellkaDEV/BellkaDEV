@@ -1,9 +1,6 @@
-# Olá! 👋 Eu sou BellkaDEV
+# Olá! 👋 Eu sou Kalleb
 
-💻 **Desenvolvedor / Entusiasta de Tecnologia**  
-🚀 Apaixonado por criar projetos incríveis e aprender coisas novas todos os dias.
-
----
+💻 **Desenvolvedor / Entusiasta de Tecnologia** 
 
 ## 🔧 Tecnologias que uso
 
@@ -16,7 +13,7 @@
 ## 🌱 Estou aprendendo
 
 - Estruturas de dados avançadas  
-- Algoritmos  
+- Python
 - Inteligência Artificial  
 
 ---
@@ -31,21 +28,15 @@
 
 ---
 
-## 🎬 GitHub Snake
 
-![GitHub Snake](dist/github-snake.svg)  
-![GitHub Snake Dark](dist/github-snake-dark.svg)  
-![Meu Snake GIF](dist/ocean.gif)
-
-> O gráfico animado mostra minhas contribuições e streaks no GitHub!  
 
 ---
 
 ## 📫 Contato
 
-- Email: bellka@email.com  
-- LinkedIn: [BellkaDEV](https://www.linkedin.com/in/bellkadev/)  
-- Twitter: [@BellkaDEV](https://twitter.com/BellkaDEV)  
+- **Email:** [kallebferbot12345678@gmail.com](mailto:kallebferbot12345678@gmail.com)  
+- **LinkedIn:** [Kalleb Botelho](https://www.linkedin.com/in/kalleb-botelho-813b6b385/)  
+- **Instagram:** [@kallebferbot](https://www.instagram.com/kallebferbot/)  
 
 ---
 
@@ -53,3 +44,5 @@
 
 ![BellkaDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=BellkaDEV&show_icons=true&theme=tokyonight)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BellkaDEV&layout=compact&theme=tokyonight)
+
+
