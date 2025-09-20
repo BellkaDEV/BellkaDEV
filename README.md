@@ -54,7 +54,7 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BellkaDEV&theme=tokyo-night&hide_border=true&area=true)
 ![suzakuZero](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2g4dzJuY3BobmVmMTFpbWpmd21jM3FscHBlMGlkMzgxazVjcmlvcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif)
-![Zero](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F3d2hmYW0wbzl3MHUxZjJ3cDJ6bHNibTFoMmJkc3gxejk4NnlleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkRApEeHSBlOU/giphy.gif)
+![Zero](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4OTk2ZTNuZ3ZtNnU0M2VxY3EzYmRsemR5dGQ2ejFnZzdwaWU3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DNpV7fnOE6QJuW2lje/giphy.gif)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BellkaDEV&theme=tokyonight&date_format=%5B%22%25d.%20%25b%22%2C%20%22%25d.%20%25b%20%25Y%22%5D) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BellkaDEV&show_icons=true&theme=tokyonight&hide_border=true)
 
