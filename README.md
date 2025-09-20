@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou Kalleb
 💻 **Aluno do CEFET-MG / Programador Iniciante**  
 
-![suzaku](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNnc3kzM2R5ank5NXBzb3ltdW42MXMxYWs5NG11MHhhYm5lejYzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqeWxAgKT4P6M/giphy.gif)
+![suzakuLancelot](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNnc3kzM2R5ank5NXBzb3ltdW42MXMxYWs5NG11MHhhYm5lejYzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqeWxAgKT4P6M/giphy.gif)
 
 ---
 
@@ -20,7 +20,7 @@
 - Python
 - Inteligência Artificial
 
-![lulu](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmczczdnZXpnMnFncnI2a2g1dXk5cHQwc2x4emxqNDMxcDV1YWtlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FmQv8coLei6VXYQ/giphy.gif)
+![Suzaku](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmczczdnZXpnMnFncnI2a2g1dXk5cHQwc2x4emxqNDMxcDV1YWtlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FmQv8coLei6VXYQ/giphy.gif)
 
 
 ---
@@ -52,12 +52,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![BellkaDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=BellkaDEV&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BellkaDEV&layout=compact&theme=tokyonight)
-
-![CC](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2g4dzJuY3BobmVmMTFpbWpmd21jM3FscHBlMGlkMzgxazVjcmlvcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif)
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BellkaDEV&theme=tokyo-night&hide_border=true&area=true)
+![suzakuZero](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2g4dzJuY3BobmVmMTFpbWpmd21jM3FscHBlMGlkMzgxazVjcmlvcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif)
+![Zero](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW83cWR0OHIwNG1haGh5c200M3oxMTAzYXU1dTc3OTdtNG5xOHU5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RKp3DW2ZwDlVS/giphy.gif)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BellkaDEV&theme=tokyonight&date_format=%5B%22%25d.%20%25b%22%2C%20%22%25d.%20%25b%20%25Y%22%5D) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BellkaDEV&show_icons=true&theme=tokyonight&hide_border=true)
 
