@@ -1,16 +1,28 @@
-Eai, sou kalleb
+# Olá! 👋 Eu sou Bellka
 
-<!--
-**BellkaDEV/BellkaDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedora / Entusiasta de Tecnologia**  
+🚀 Apaixonada por criar projetos legais e aprender coisas novas todos os dias.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que uso
+
+- **Linguagens:** Python, JavaScript, C++, HTML, CSS  
+- **Frameworks / Bibliotecas:** React, Node.js, Flask  
+- **Ferramentas:** Git, GitHub, VSCode, Docker  
+
+---
+
+## 🌱 Estou aprendendo
+
+- Inteligência Artificial  
+- Desenvolvimento Mobile  
+- Cloud Computing  
+
+---
+
+## 📂 Meus Projetos
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| Meu Portfolio | Meu site pessoal mostrando meus pro
