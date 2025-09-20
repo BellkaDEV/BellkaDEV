@@ -54,5 +54,8 @@
 ![BellkaDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=BellkaDEV&show_icons=true&theme=tokyonight)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BellkaDEV&layout=compact&theme=tokyonight)
 
- ![CC](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2g4dzJuY3BobmVmMTFpbWpmd21jM3FscHBlMGlkMzgxazVjcmlvcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif)
+![CC](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2g4dzJuY3BobmVmMTFpbWpmd21jM3FscHBlMGlkMzgxazVjcmlvcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BellkaDEV&theme=tokyo-night&hide_border=true&area=true)
+
 
