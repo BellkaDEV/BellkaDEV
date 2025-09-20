@@ -10,7 +10,8 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
 ## 🎓 Estou aprendendo
@@ -57,5 +58,6 @@
 ![CC](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2g4dzJuY3BobmVmMTFpbWpmd21jM3FscHBlMGlkMzgxazVjcmlvcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7OW9uqmToYAPNosYfo/giphy.gif)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BellkaDEV&theme=tokyo-night&hide_border=true&area=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BellkaDEV&theme=tokyonight&date_format=%5B%22%25d.%20%25b%22%2C%20%22%25d.%20%25b%20%25Y%22%5D) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BellkaDEV&show_icons=true&theme=tokyonight&hide_border=true)
 
