@@ -10,7 +10,7 @@
 
 ---
 
-## 🌱 Estou aprendendo
+## 🎓 Estou aprendendo
 
 - Estruturas de dados avançadas  
 - Python
@@ -25,10 +25,6 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
-
----
-
-
 
 ---
 
