@@ -1,7 +1,11 @@
 # Olá! 👋 Eu sou Kalleb
 💻 **Aluno do CEFET-MG / Programador Iniciante**  
 
-![suzakuLancelot](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNnc3kzM2R5ank5NXBzb3ltdW42MXMxYWs5NG11MHhhYm5lejYzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqeWxAgKT4P6M/giphy.gif)
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNnc3kzM2R5ank5NXBzb3ltdW42MXMxYWs5NG11MHhhYm5lejYzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqeWxAgKT4P6M/giphy.gif" width="49%" />
+  <img src="https://github.com/BellkaDEV/BellkaDEV/raw/main/gifs/tumblr_oipudiQ9Lv1rydwbvo1_500_gif%20(500%C3%97283).gif" width="49%" />
+</div>
+
 
 ---
 
@@ -20,8 +24,10 @@
 - Python
 - Inteligência Artificial
 
-![Suzaku](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmczczdnZXpnMnFncnI2a2g1dXk5cHQwc2x4emxqNDMxcDV1YWtlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FmQv8coLei6VXYQ/giphy.gif)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmczczdnZXpnMnFncnI2a2g1dXk5cHQwc2x4emxqNDMxcDV1YWtlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FmQv8coLei6VXYQ/giphy.gif" width="53%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFhdjluZnUxeGt3a213ZHE4MG5oenQzOW04Nm9wanV6bHBxOHE4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FRakAcmVDLzO0/giphy.gif" width="45%" />
+</div>
 
 ---
 
