@@ -1,0 +1,35 @@
+name: GitHub Snake
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Faz checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Gera os arquivos da animação da snake
+      - name: Generate Snake files
+        uses: Platane/snk@v3
+        with:
+          github_user_name: BellkaDEV
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Faz commit e push dos arquivos gerados
+      - name: Commit and Push Snake files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/*
+          git commit -m "Atualiza GitHub Snake" || echo "Nenhuma mudança para commit"
+          git push
