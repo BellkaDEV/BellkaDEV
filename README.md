@@ -69,7 +69,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4OTk2ZTNuZ3ZtNnU0M2VxY3EzYmRsemR5dGQ2ejFnZzdwaWU3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DNpV7fnOE6QJuW2lje/giphy.gif" width="48%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BellkaDEV&theme=tokyonight" width="51%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BellkaDEV&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=BellkaDEV&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
