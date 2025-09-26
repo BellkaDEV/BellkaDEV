@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Kalleb
+# Olá! 👋 Eu ou Kalleb
 💻 **Aluno do CEFET-MG / Programador Iniciante**  
 
 <div align="center">
