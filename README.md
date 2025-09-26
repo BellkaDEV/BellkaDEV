@@ -23,6 +23,7 @@
 - Estruturas de dados avançadas  
 - Python
 - Inteligência Artificial
+- coisas
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmczczdnZXpnMnFncnI2a2g1dXk5cHQwc2x4emxqNDMxcDV1YWtlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FmQv8coLei6VXYQ/giphy.gif" width="53%" />
