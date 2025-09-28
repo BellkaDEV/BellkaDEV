@@ -46,8 +46,8 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/BellkaDEV/BellkaDEV/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
  <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmczczdnZXpnMnFncnI2a2g1dXk5cHQwc2x4emxqNDMxcDV1YWtlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GaynE6dZoVDkQ/giphy.gif" width="51%" />
-  <img src="https://github.com/BellkaDEV/BellkaDEV/blob/main/gifs/CC%20x%20Lelouch.gif" width="47%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmczczdnZXpnMnFncnI2a2g1dXk5cHQwc2x4emxqNDMxcDV1YWtlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GaynE6dZoVDkQ/giphy.gif" width="49%" />
+  <img src="https://github.com/BellkaDEV/BellkaDEV/blob/main/gifs/CC%20x%20Lelouch.gif" width="48%" />
 </div>
 
 ---
